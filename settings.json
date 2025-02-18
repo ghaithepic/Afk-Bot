@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Ghaithepic.aternos.me",
+    "port": 21476,
     "version": "1.19.3"
   },
 
